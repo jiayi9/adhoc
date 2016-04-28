@@ -1,5 +1,5 @@
-# adhoc
-Ad-Hoc analysis tool
+# adhoc_V5.2
+Ad-Hoc analysis tool (stable version - No custom boxplot)
 
 This is a general R Shiny application for ad-hoc analysis for seagate users.
 
